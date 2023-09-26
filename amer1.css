@@ -1,0 +1,139 @@
+*{
+    padding: 0px;
+    margin: 0px ;
+}
+* {
+    box-sizing: border-box;
+}
+.qq{
+    background-image: url("Hbackg.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.tit{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-left: 0px;
+}
+.qwe{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    font-family: monospace;
+}
+.a{
+    background-color: #333333;
+}
+.a li{
+    display: inline-table;
+    font-size: 25px;
+    opacity: .8;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 40px;
+    
+}
+.a li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    
+}
+.a li ul li{
+    display: none;
+    height: 70px;
+}
+.a li:hover ul li{
+    display: block;
+    color: gainsboro;
+}
+.a li a:hover{
+    background-color: white;
+    color: black;
+}
+.h3{
+    text-align: justify;
+    font-size: 30px;
+    color: darkgreen;
+}
+.h1{
+    text-align: center;
+    font-size: 50px;  
+    color: dimgray;
+    font-style: oblique;
+}
+.div {
+    background-color: hsla(180, 180, 180, 0.2);
+    font-size: 25px;
+    width: 1150px;
+    text-align: justify;
+    padding: 70px;
+}
+.pastfooter {
+    background-color:#333333;
+    color: white ;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.Footer
+{
+  background:#222;
+  color:#fff;
+   font-size:20px;
+  text-align:center;
+  padding:10px;
+  margin: 55px 0px 0px 0px;
+}
+.foot
+{
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+.foot:hover
+{
+    color: yellow;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+input{
+    width: 30%;
+}
+.leftcolumn {   
+    float: left;
+    width: 75%;
+}
+.fakeimg {
+    width: 100%;
+    padding: 20px;
+}
+
+.rightcolumn {
+    float: left;
+    width: 25%;
+    background-color: transparent;
+    padding-left: 20px;
+}
+
+.card {
+    background-color: white;
+    opacity: 0.85;
+    padding: 30px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.row{
+    display: table;
+    clear: both;
+}

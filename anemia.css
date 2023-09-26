@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{background-image:url("received_2148010302101715.jpeg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+font-size:20px;
+background-size:1600px;
+}
+.b{text-decoration:none;font-size:50px;font-weight:900}
+.b:hover{color:red;text-decoration:underline}
+.b:active{color:black;font-weight:normal;text-decoration:none}
+.c{text-decoration:none;font-size:50px;font-weight:900}
+.c:hover{color:red;text-decoration:underline}
+.c:active{color:black;font-weight:normal;text-decoration:none}
+div.d{word-spacing:1100px}
+.e{list-style-type:none;margin:0;padding:0}
+.f{color:blue;text-decoration:none;font-size:30px;font-weight:700}
+.f:hover{color:black;text-decoration:underline}
+.g{display:inline-block;}
+.h{word-spacing:133px}
+.i:hover{color:red;text-decoration:underline;font-weight:bold}
+.j{color:blue}
+.j:hover{color:red;text-decoration:underline;font-weight:bold}
+div.k{text-align:center}
+.l{color:blue}
+.a{
+    background-color: #333333;
+}
+
+.a li{
+    display: inline-table;
+    font-size: 25px;
+    opacity: .8;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    
+    
+}
+
+.a li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 20px;
+    margin-top:0px:
+}
+.a li ul li{
+    display: none;
+    height: 70px;
+}
+
+.a li:hover ul li{
+    display: block;
+    color: gainsboro;
+}
+
+
+.a li a:hover{
+    background-color: white;
+    color: black;
+}
+.tit{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-left: 0px;
+}
+.qwe{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    font-family: monospace;
+}

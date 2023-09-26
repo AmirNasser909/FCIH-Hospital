@@ -1,0 +1,110 @@
+*
+{
+padding: 0;
+margin: 0;
+}
+body
+{
+font-family: fantasy;
+background-image: url("30729276_2148010308768381_3084437880383209472_n.jpg");
+background-position: center;
+background-size: cover;
+height: 210vh;
+}
+.qwe{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    font-family: monospace;
+}
+.tit{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-left: 0px;
+}
+.a{
+    background-color: #333333;
+}
+
+.a li{
+    display: inline-table;
+    font-size: 20px;
+    opacity: .8;
+    width: 200px;
+    height: 10px;
+    line-height: 40px;
+    text-align: center;
+    list-style-type: none;
+}
+
+.a li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    
+}
+.a li ul li{
+    display: none;
+    height: 50px;
+}
+
+.a li:hover ul li{
+    display: block;
+}
+
+
+.a li a:hover{
+    background-color: white;
+    color: #974797;
+}
+.head
+{
+    text-decoration:none;
+    color: black;
+}
+.head:hover
+{
+    color: lightblue;
+}
+.small
+{
+     float: right;
+     padding:  0px 400px 100px 0px;
+}
+.nervous
+{
+    text-align: right;
+    font-size: 50px;
+    background-color:#888;
+}
+.case
+{
+    font-size: 40px;
+    float:right;
+    padding: 0px;
+    list-style-type: circle;
+    font-family: fantasy;
+}
+.Footer
+{
+  background:#222;
+  color:#fff;
+   font-size:15px;
+  text-align:center;
+  padding:10px;
+  margin: 55px 0px 0px 0px;
+  }
+.foot
+{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.foot:hover
+{
+    color: yellow;
+    font-size: 30px;
+    text-decoration: none;
+}

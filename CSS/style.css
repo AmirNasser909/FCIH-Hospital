@@ -1,0 +1,122 @@
+*
+{
+  padding: 0;
+margin: 0;
+}
+body
+{
+padding: 0;
+margin: 0;
+height: 500px;
+}
+.di
+{
+    font-family: fantasy;
+    background-image: url("30729276_2148010308768381_3084437880383209472_n.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.a{
+    background-color: #333333;
+}
+
+.a li{
+    display: inline-table;
+    font-size: 20px;
+    opacity: .8;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.qwe{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    font-family: monospace;
+}
+.tit{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-left: 0px;
+}
+.a li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    
+}
+.a li ul li{
+    display: none;
+    height: 70px;
+}
+
+.a li:hover ul li{
+    display: block;
+}
+
+
+.a li a:hover{
+    background-color: white;
+    color: #974797;
+}
+.middle
+{
+
+    text-align: center;
+    background-position: center;
+    font-size: 20px;
+}
+input
+{
+    width:180px;
+    border-radius:10px;
+}
+label
+{
+    width: 190px;
+    text-align: center;
+}
+select
+{
+    width: 200px;
+}
+select:hover
+{
+    background-color: orange;
+}
+textarea
+{
+    width: 200px;
+    height: 152px;
+    border-radius: 10px;
+}
+button
+{
+    background-color: yellow;
+    border-radius: 10px;
+    width: 100px;
+}
+.Footer
+{
+  background:#222;
+  color:#fff;
+   font-size:15px;
+  text-align:center;
+  padding:10px;
+  margin: 55px 0px 0px 0px;
+  }
+.foot
+{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.foot:hover
+{
+    color: yellow;
+    font-size: 30px;
+    text-decoration: none;
+}
