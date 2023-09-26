@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.qq{
+    background-image: url("t2.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 400vh;
+    
+}
+.a{
+    background-color: #333333;
+}
+
+.a li{
+    display: inline-table;
+    font-size: 20px;
+    opacity: .8;
+    width: 170px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.a li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    
+}
+.a li ul li{
+    display: none;
+    height: 70px;
+}
+
+.a li:hover ul li{
+    display: block;
+}
+
+
+.a li a:hover{
+    
+    background-color: black;
+}
+.tit{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-left: 0px;
+}
+.qwe{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    font-family: monospace;
+}
+.video{
+    text-align: center;
+    margin: 0px;
+}
+.image{
+    text-align: right;
+    height: 0px;
+    margin: 0px;
+}
+.Gastroenterology{
+    font-size: 25px;
+    color: black;
+}
+.Gastroenterology span{
+    font-size: 30px;
+    color: red;
+}
+.image2{
+    text-align: right;
+    height: 0px;
+    margin: 0px;
+}
+.History{
+    font-size: 25px;
+    color: black;
+}
+.History span{
+    font-size: 30px;
+    color: red;
+}

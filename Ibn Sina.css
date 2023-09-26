@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{background-image:url("received_2148010302101715.jpeg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+font-size:20px;
+background-size:1600px;
+}
+.b{text-align:center;}
+.c:hover{color:red;font-weight:bold;text-decoration:underline}
+.c:active{color:green;font-weight:normal;text-decoration:line-through}
+.c{text-decoration:none}
+.d:hover{color:orange;font-weight:bold;text-decoration:underline}
+.d:active{color:blue;font-weight:normal;text-decoration:underline}
+.d{text-decoration:none}
+.e:hover{color:black;font-weight:bold;text-decoration:underline}
+.e:active{color:yellow;font-weight:normal;text-decoration:none}
+.e{text-decoration:none}
+.f{text-decoration:none;font-size:50px;font-weight:900}
+.f:hover{color:red;text-decoration:underline}
+.f:active{color:black;font-weight:normal;text-decoration:none}
+.g{text-decoration:none;font-size:50px;font-weight:900}
+.g:hover{color:red;text-decoration:underline}
+.g:active{color:black;font-weight:normal;text-decoration:none}
+/*div{word-spacing:1130px}*/
+.h{color:blue}
+.a{
+    background-color: #333333;
+}
+
+.a li{
+    display: inline-table;
+    font-size: 25px;
+    opacity: .8;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    
+    
+}
+
+.a li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 20px;
+    margin-top:0px:
+}
+.a li ul li{
+    display: none;
+    height: 70px;
+}
+
+.a li:hover ul li{
+    display: block;
+    color: gainsboro;
+}
+
+
+.a li a:hover{
+    background-color: white;
+    color: black;
+}
+.tit{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-left: 0px;
+    margin-top: 0px; 
+}
+.qwe{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    font-family: mon ;
+    margin-top: 0px;
